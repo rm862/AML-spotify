@@ -9,3 +9,4 @@ To reproduce results:
 1. Select a Jupyter notebook file named "*_final.ipynb".
 2. Set up a simple virtual environment as can be done using the [README](https://git.ecdf.ed.ac.uk/aml/labs-public/-/blob/main/README.md) for the labs for this course.
 3. Install additional packages if prompted. All packages needed for each individual notebook can be found in the first cell of the notebook.
+4. Select "Run all" to reproduce results!
