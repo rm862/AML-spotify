@@ -1,5 +1,7 @@
 # AML Group 47 project: Spotify data analysis
 
+** This is an imported repository of the group project made for AML in the year 2024-2025 **
+
 Project structure:
 - "old_stuff" contains older versions of various notebooks (can be disregarded) 
 - "report" contains the latex files for the project report
